@@ -5,15 +5,15 @@ class Solution {
       if(root == null) return result;
       q.add(root);
       while(!q.isEmpty()) {
-        int sizeOfLevel = q.size();
-        List<Integer> level = new ArrayList<>();
-        for(int i = 0;i<sizeOfLevel; i++) {
+        int size = q.size();
+        List<Integer> lt = new ArrayList<>();
+        for(int i=0;i<size;i++) {
             TreeNode curr = q.remove();
-            level.add(curr.val);
-            if(curr.left!=null) q.add(curr.left);
-            if(curr.right!=null) q.add(curr.right);
+            lt.add(curr.val);
+            if(curr.left != null) q.add(curr.left);
+            if(curr.right != null) q.add(curr.right);
         }
-        result.add(level);
+        result.add(lt);
       }
       return result;
     }
