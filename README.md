@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/prachimakkar2006/leethub/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/prachimakkar2006/leethub/tree/master/0713-subarray-product-less-than-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
