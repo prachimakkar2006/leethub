@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
