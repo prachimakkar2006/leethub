@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
