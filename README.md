@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/prachimakkar2006/leethub/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prachimakkar2006/leethub/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachimakkar2006/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
