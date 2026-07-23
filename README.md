@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
+| [0152-maximum-product-subarray](https://github.com/prachimakkar2006/leethub/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/prachimakkar2006/leethub/tree/master/0263-ugly-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/prachimakkar2006/leethub/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
