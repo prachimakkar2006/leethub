@@ -7,11 +7,11 @@ class Solution {
             leftSum+=cardPoints[i];
         }
         int max = leftSum;
-        int right = n-1;
-        for(int j=k-1;j>=0;j--) {
-            leftSum-=cardPoints[j];
-            rightSum+=cardPoints[right];
-            right--;
+        int j = n-1;
+        for(int i=k-1;i>=0;i--) {
+            leftSum-=cardPoints[i];
+            rightSum+=cardPoints[j];
+            j--;
             max = Math.max(max,leftSum+rightSum);
         }
         return max;
