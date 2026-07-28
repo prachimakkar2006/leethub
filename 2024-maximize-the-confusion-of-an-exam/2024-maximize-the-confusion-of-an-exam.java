@@ -10,7 +10,7 @@ class Solution {
             char ch = answerKey.charAt(j);
             map.put(ch,map.getOrDefault(ch,0)+1);
             freq=Math.max(freq,map.get(ch));
-            if((j-i+1)-freq>k) {
+            while((j-i+1)-freq>k) {
                 char left = answerKey.charAt(i);
                 map.put(left,map.getOrDefault(left,0)-1);
                 i++;
