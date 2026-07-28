@@ -13,6 +13,7 @@ class Solution {
             while((j-i+1)-freq>k) {
                 char left = answerKey.charAt(i);
                 map.put(left,map.getOrDefault(left,0)-1);
+                if(map.get(ch)==0) map.remove(ch);
                 i++;
             }
             max = Math.max(max,j-i+1);
