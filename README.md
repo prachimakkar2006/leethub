@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/prachimakkar2006/leethub/tree/master/0263-ugly-number) |
+| [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
