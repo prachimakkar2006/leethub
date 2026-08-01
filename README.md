@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prachimakkar2006/leethub/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/prachimakkar2006/leethub/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimakkar2006/leethub/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachimakkar2006/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prachimakkar2006/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachimakkar2006/leethub/tree/master/1004-max-consecutive-ones-iii) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/prachimakkar2006/leethub/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
 ## Dynamic Programming
 |  |
@@ -140,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prachimakkar2006/leethub/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
