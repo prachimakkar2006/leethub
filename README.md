@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prachimakkar2006/leethub/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/prachimakkar2006/leethub/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/prachimakkar2006/leethub/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prachimakkar2006/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/prachimakkar2006/leethub/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachimakkar2006/leethub/tree/master/1004-max-consecutive-ones-iii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/prachimakkar2006/leethub/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prachimakkar2006/leethub/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/prachimakkar2006/leethub/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prachimakkar2006/leethub/tree/master/2024-maximize-the-confusion-of-an-exam) |
