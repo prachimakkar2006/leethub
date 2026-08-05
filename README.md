@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/prachimakkar2006/leethub/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/prachimakkar2006/leethub/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachimakkar2006/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/prachimakkar2006/leethub/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/prachimakkar2006/leethub/tree/master/0263-ugly-number) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prachimakkar2006/leethub/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
