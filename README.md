@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prachimakkar2006/leethub/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/prachimakkar2006/leethub/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prachimakkar2006/leethub/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/prachimakkar2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/prachimakkar2006/leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -192,5 +193,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/prachimakkar2006/leethub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachimakkar2006/leethub/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prachimakkar2006/leethub/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
