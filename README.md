@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/prachimakkar2006/leethub/tree/master/0509-fibonacci-number) |
 | [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prachimakkar2006/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/prachimakkar2006/leethub/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/prachimakkar2006/leethub/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
