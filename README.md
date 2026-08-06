@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prachimakkar2006/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prachimakkar2006/leethub/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prachimakkar2006/leethub/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/prachimakkar2006/leethub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/prachimakkar2006/leethub/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prachimakkar2006/leethub/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/prachimakkar2006/leethub/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prachimakkar2006/leethub/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/prachimakkar2006/leethub/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/prachimakkar2006/leethub/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/prachimakkar2006/leethub/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
