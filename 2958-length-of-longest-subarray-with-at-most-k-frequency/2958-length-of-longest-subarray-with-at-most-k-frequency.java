@@ -7,6 +7,7 @@ class Solution {
         int len =0;
         while(j<n) {
             map.put(nums[j],map.getOrDefault(nums[j],0)+1);
+
             while(map.get(nums[j])>k) {
                 map.put(nums[i],map.get(nums[i])-1);
                 i++;
