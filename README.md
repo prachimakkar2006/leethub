@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prachimakkar2006/leethub/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prachimakkar2006/leethub/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prachimakkar2006/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prachimakkar2006/leethub/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prachimakkar2006/leethub/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prachimakkar2006/leethub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/prachimakkar2006/leethub/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/prachimakkar2006/leethub/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prachimakkar2006/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/prachimakkar2006/leethub/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prachimakkar2006/leethub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/prachimakkar2006/leethub/tree/master/0704-binary-search) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prachimakkar2006/leethub/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prachimakkar2006/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/prachimakkar2006/leethub/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/prachimakkar2006/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prachimakkar2006/leethub/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/prachimakkar2006/leethub/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
